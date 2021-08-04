@@ -162,13 +162,28 @@ p {
 }
 @media (max-width:1020px) {
   #title {
-    text-align: left;
+    text-align: center;
+  }
+  .big-heading{
+    font-size: 3rem;
+    padding-bottom: 2%;
+  }
+  .address-title{
+    font-size: 2rem;
+  }
+  #about h3{
+    font-size: 2rem;
   }
   .p-text{
     text-align: center;
+    padding: 0 120px;
+    font-size: 1.2rem;
+  }
+  .press-img{
+    width: 15%;
+  }
+  .card{
     padding: 0 100px;
-    
-
   }
 
 
