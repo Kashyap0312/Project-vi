@@ -161,29 +161,32 @@ p {
   margin: 20px 10px;
 }
 @media (max-width:1020px) {
-  #title {
+  #title row {
     text-align: center;
   }
   .big-heading{
-    font-size: 3rem;
+    font-size: 4rem;
     padding-bottom: 2%;
   }
   .address-title{
-    font-size: 2rem;
+    font-size: 3rem;
   }
   #about h3{
-    font-size: 2rem;
+    font-size: 4rem;
   }
   .p-text{
     text-align: center;
     padding: 0 120px;
-    font-size: 1.2rem;
+    font-size: 3rem;
+  }
+  .product-img{
+     width:75%;
   }
   .press-img{
     width: 15%;
   }
-  .card{
-    padding: 0 100px;
+  #pricing row{
+  padding: 0 150px;
   }
 
 
