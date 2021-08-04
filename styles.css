@@ -160,3 +160,15 @@ p {
 .social-icon {
   margin: 20px 10px;
 }
+@media (max-width:1020px) {
+  #title {
+    text-align: center;
+  }
+  .p-text{
+    text-align: center;
+    padding: 0 100px;
+
+  }
+
+
+}
